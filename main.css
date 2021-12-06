@@ -18,13 +18,13 @@ div.drop {
 }
 
 span.drop-head {
-    font-size: var(--size);
+    /*font-size: var(--size);*/
     color: #fff;
     text-shadow: 0 0 7px #fff, 0 0 10px #fff;
 }
 
 span.drop-tail {
-    font-size: var(--size);
+    /*font-size: var(--size);*/
     color: rgb(137, 222, 26);
     text-shadow: 0 0 3px #0fa, 0 0 7px #0fa;
 }
